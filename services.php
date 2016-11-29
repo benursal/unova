@@ -44,13 +44,11 @@
 				<div class="row">
 					<div class="col-md-6">
 						<ul>
-							<li>Extremity joint replacement</li>
-							<li>Sports medicine and shoulder</li>
-							<li>Foot and ankle</li>
-							<li>Trauma</li>
-							<li>Hip</li>
-							<li>Hand</li>
-							<li>Spine</li>
+							<li>Surgical Orthopaedics</li>
+							<li>Urgent Care – with extended hours</li>
+							<li>Primary Care</li>
+							<li>Physical Medicine and Rehabilitation</li>
+							<li>Non-Operative Orthopaedics</li>
 						</ul>
 					</div>
 					<div class="col-md-6">
@@ -64,13 +62,12 @@
 				<div class="row">
 					<div class="col-md-6">
 						<ul>
-							<li>Extremity joint replacement</li>
-							<li>Sports medicine and shoulder</li>
-							<li>Foot and ankle</li>
-							<li>Trauma</li>
-							<li>Hip</li>
-							<li>Hand</li>
-							<li>Spine</li>
+							<li>Imaging Center (MRI, CT, digital X-ray, Ultrasound)</li>
+							<li>Physical Therapy</li>
+							<li>Wellness Programs</li>
+							<li>DME</li>
+							<li>Pharmacy</li>
+							<li>Lab</li>
 						</ul>
 					</div>
 					<div class="col-md-6">
@@ -84,13 +81,8 @@
 				<div class="row">
 					<div class="col-md-6">
 						<ul>
-							<li>Extremity joint replacement</li>
-							<li>Sports medicine and shoulder</li>
-							<li>Foot and ankle</li>
-							<li>Trauma</li>
-							<li>Hip</li>
-							<li>Hand</li>
-							<li>Spine</li>
+							<li>Medicare certified</li>
+							<li>Designed specifically to support UNOVA Health patient care needs</li>
 						</ul>
 					</div>
 					<div class="col-md-6">
