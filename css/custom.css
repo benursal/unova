@@ -1,0 +1,579 @@
+h3{
+	text-transform:none;
+	font-family:'PT Serif', serif;
+	font-size:36px;
+	font-weight:bold;
+	color:#0973ba;
+	text-align:center;
+	margin-bottom:80px;
+}
+
+p{
+	font-family: 'Source Sans Pro', sans-serif !important;
+	font-weight:400 !important;
+	font-size:16px !important;
+	line-height:30px !important;
+	letter-spacing:.5px !important;
+	margin-bottom:30px !important;
+}
+
+.btn-cta{
+	font-family: 'Source Sans Pro', sans-serif !important;
+	font-size:24px;
+	font-weight:600;
+	background-color:#ee5b25;
+	padding:14px 60px;
+	color:white;
+	border:0;
+	border-bottom: 3px solid rgba(0, 0, 0, 0.15);
+	    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+	border-radius:3px;
+}
+
+.btn-cta br{
+	display:none;
+}
+
+.btn-cta:hover{
+	background-color:#ff733f;
+	color:white;
+}
+
+ol.ordered{
+	margin-left:0px;
+}
+
+ol.ordered  li{
+	font-family: 'Source Sans Pro', sans-serif !important;
+	font-size:16px !important;
+	line-height:24px !important;
+	margin-bottom:15px;
+	list-style-type:decimal
+}
+
+.attribution{
+	display: block;
+    font-size: 10.5px;
+    text-align: center;
+    margin-top: 20px;
+    color: #989898 !important;
+    text-decoration: underline;
+}
+
+.attribution:hover{
+	text-decoration: none;
+}
+
+.imaged-list{
+	margin-left:-30px;
+}
+
+.imaged-list li{
+	font-family: 'Source Sans Pro', sans-serif !important;
+	list-style-type:none;
+	font-size:16px !important;
+	background:url('../images/why/check-orange.png') no-repeat;
+	line-height:24px !important;
+	margin-top:15px;
+	margin-bottom:10px;
+	padding-left:40px;
+	background-position: 0px 2px;
+	background-size:23px;
+}
+
+.imaged-list li.two-lines{
+	background-position: 0px 16px;
+}
+
+
+.pointer{
+	position:absolute;
+	display:none !important;
+}
+
+.section{
+	padding-top:80px;
+	padding-bottom:80px;
+}
+
+.section-blue{
+	background-color:#eaf8fd;
+}
+
+.pet-caption{
+	display:block;
+	text-align:center;
+	color:#484848;
+	font-style:italic;
+	font-weight:600;
+	font-size:15px;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-top:15px;
+}
+
+/** Specific sections */
+
+/** Hero Area**/
+#heroArea{
+	background-color:#b5e4fe;
+	background-image:url('../images/about/hero-area.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	/* background-position:-100px -330px; */
+	height:820px;
+}
+
+.hero-placeholder{
+	background-image:url('../images/about/hero-medium.jpg');
+	padding:0;
+	display:none;
+}
+
+#heroArea h1{
+	font-family: 'Source Sans Pro', sans-serif;
+	color:white;
+	text-transform:none;
+	font-size:60px;
+	font-weight:700;
+	margin-top:80px;
+	text-shadow: 0px 0px 11px rgba(0, 0, 0, 0.61);
+	letter-spacing:3px;
+}
+
+.pointer-winnie{
+	top:440px;
+	left:360px;
+}
+
+.pointer-joseph{
+	top:400px;
+	left:570px;
+}
+
+img.shadowed{
+	box-shadow:0 0 65px rgba(0, 0, 0, 0.25);
+}
+
+img.darkshadow{
+	box-shadow:0 0 65px rgba(0, 0, 0, 0.5);
+}
+
+/** Intro **/
+#intro img{
+	box-shadow:0 0 65px rgba(0, 0, 0, 0.25);
+}
+
+/** for busy owners **/
+#forBusyOwners{
+	background-image:url('../images/about/chillax.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:0 0;
+	height:1030px;
+}
+
+#forBusyOwners .the-content{
+	margin-top:80px;
+}
+
+.the-content{
+	background-color: rgba(255,255,255,0.90);
+	border-radius:10px;
+	margin-top:30px;
+	padding:40px;
+	box-shadow:0 0 38px rgba(0, 0, 0, 0.42);
+}
+
+.the-content .paragraphs{
+	padding-left:50px;
+	padding-right:50px;
+}
+
+.the-content h3{
+	margin-bottom:40px;
+	margin-top:20px;
+}
+
+/** for busy owners **/
+#petSupplies{
+	background-image:url('../images/about/usa-map-light.jpg');
+	background-repeat:no-repeat;
+	/* background-size:1700px; */
+	background-position:-325px 10px;
+	padding-bottom:0px !important;
+}
+
+#petSupplies p{
+	font-size:20px !important;
+	line-height:33px !important;
+}
+
+.advantages{
+	margin-top:80px;
+}
+
+.advantage{
+	padding:20px;
+}
+
+.adv-content{
+	background-color:#08629e;
+	padding-bottom:40px;
+}
+
+.adv-content h4, h5{
+	color:white;
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align:center;
+}
+
+.adv-content h4{
+	font-size:50px;
+	font-weight:600;
+	margin-bottom:0px;
+	margin-top: -45px;
+}
+
+.adv-content h5{
+	font-size:24px;
+	font-weight:300 !important;
+	font-style:italic;
+	text-transform:none;
+	color:#e2e2e2;
+}
+
+.adv-icon{
+	margin:0 auto;
+	position:relative;
+	top:-65px;
+}
+
+.free-delivery{
+	background-color: rgba(254,120,72,0.69);
+	margin-top:80px;
+	/* margin-left:-80px;
+	margin-right:-80px; */
+	padding:25px;
+}
+
+.free-delivery h4{
+	color:white;
+	font-family:'PT Serif', serif;
+	text-transform:none;
+	font-size:29px;
+	letter-spacing:.5px;
+	text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.75);
+	margin-top:30px;
+}
+
+.free-delivery .white-box{
+	background-color:rgba(255, 255, 255, .93);
+	padding:15px 50px;
+	box-shadow:0 0 35px rgba(135, 135, 135, 0.48);
+	color:#6ba1cf;
+	font-size:20px;
+	text-align:center;
+	margin-top:50px;
+}
+
+/** tell us **/
+#tellUs{
+	background-color:#f8f8f8
+}
+
+#tellUs h3{
+	color:#000000;
+}
+
+#tellUs h4{
+	color:#000000;
+	text-transform:none;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight:300;
+	letter-spacing:.5px;
+	line-height:40px;
+}
+
+#tellUs .feature{
+	margin-bottom:80px;
+}
+
+#tellUs .feature h4{
+	font-size:24px;
+}
+
+#tellUs #feature1 h4{
+	margin-top:100px;
+}
+
+#tellUs #feature2 h4{
+	margin-top:150px;
+}
+
+.cta-area{
+	text-align:center;
+}
+
+.cta-area h4{
+	margin-top:0px;
+	font-size:30px;
+	line-height:48px !important;
+	font-weight:400 !important;
+	color:#707070 !important;
+	margin-bottom:40px;
+}
+
+
+/** dog lovers **/
+#petLovers{
+	background-image:url('../images/about/dog-love.jpg');
+	background-repeat:no-repeat;
+	/* background-size:1700px; */
+	background-position:-70px 0;
+	
+}
+
+#petLovers h2{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight:600;
+	color:#0973ba;
+	font-size:48px;
+	text-transform:none;
+	margin-bottom:50px;
+}
+
+.copyright p{
+	font-size:11px !important;
+	font-weight:400 !important;
+	margin-bottom:0px !important;
+	margin-top:0px !important;
+	color:#3399cc !important;
+	letter-spacing:0px !important;
+	font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif !important;
+}
+
+p.footerContact{
+	font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif !important;
+	font-size: 2em !important;
+    font-weight: bold !important;
+	margin-bottom:5px !important;
+	color:#636363 !important;
+}
+
+.addthis_horizontal_follow_toolbox{
+	margin-top:0px;
+}
+
+.addthis_toolbox{
+	margin-top:-7px;
+}
+
+.skip-link .label{
+	color: #636363;
+	font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	padding: 0;
+}
+
+.skip-link:hover .label{
+	color:#5BADD6;
+}
+.skip-cart  .label{
+    color: #3399cc;	
+}
+
+.welcome-msg{
+	margin-bottom:0px !important;
+}
+
+.header-language-background .header-language-container{
+	
+}
+
+
+/* WHY PETGLAD */
+
+/** Hero Area**/
+#whyHero{
+	background-color:#7e9140;
+	background-image:url('../images/why/hero-image.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:0px -50px;
+	height:420px;
+}
+
+#whyHero h1, 
+#whyHero h2{
+	font-family: 'Source Sans Pro', sans-serif;
+	color:white;
+	text-transform:none;
+	font-size:53px;
+	font-weight:700;
+	margin-top:80px;
+	text-shadow: 0px 0px 11px rgba(0, 0, 0, 0.61);
+	letter-spacing:3px;
+}
+
+#whyHero h1{
+	margin-bottom:20px;
+}
+
+#whyHero h2{
+	font-size:36px;
+	margin-top:0px;
+}
+
+.col-copy-right{
+	padding-left:20px;
+}
+
+h3.reason-headline{
+	text-align:left;
+	font-size:30px;
+	margin-bottom:30px;
+}
+
+.reason-number{
+	border:2px solid #ee5b25;
+	background-color:transparent;
+	border-radius:50%;
+	line-height:60px;
+	font-size:46px;
+	font-weight:normal;
+	font-family: 'Source Sans Pro', sans-serif;
+	display:inline-block;
+	margin-right:20px;
+	color:#ee5b25;
+	width:63px;
+	height:63px;
+	text-align:center;
+}
+
+.reason-content{
+	/* margin-left:90px; */
+	padding:0 30px 0 94px
+}
+
+#fastDeliveryIcon{
+	
+}
+
+#bestPricesIcon{
+	margin-top:60px;
+}
+
+#orderAnyWay .reason-headline{
+	text-align:center;
+}
+
+#orderAnyWay p{
+	font-size:26px !important;
+	margin-bottom: 50px !important;
+	margin-top: 45px;
+}
+
+.order-options{
+	margin-left:0px;
+}
+
+.order-options li{
+	list-style-type:none;
+	font-size:20px !important;
+	background-image:url('../images/why/contact-sprite.png');
+	background-repeat:no-repeat;
+	line-height: 48px !important;
+    margin-bottom: 10px;
+	padding-left: 70px;
+}
+
+.order-options li.phone{
+	background-position-y:-60px;`
+}
+
+.order-options li.email{
+	background-position-y:-120px;`
+}
+
+.order-options li.fax{
+	background-position-y:-180px;`
+}
+
+.order-options li.auto-ship{
+	background-position-y:-240px;`
+}
+
+#returnPolicy img{
+	width:370px;
+	margin:0 auto;
+}
+
+
+
+/* Fixed Overrides */
+.header-minicart p.block-subtitle {
+    font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif !important;
+    font-size: 10px !important;
+    font-weight: bold !important;
+    line-height: 1.4 !important;
+    letter-spacing:0px !important;
+    margin-bottom: 0px !important;
+}
+
+.header-minicart .block-subtitle .close{
+	line-height:1.4 !important;
+	opacity:1;
+}
+
+/* .mini-products-list .product-details .product-name{
+	padding-top: 10px !important;
+}
+
+ */
+
+p.product-name{
+    margin-bottom: 0.5em !important;
+    font-family: "Helvetica Neue", Verdana, Arial, sans-serif !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    font-style: normal;
+    line-height: 1.4 !important;
+    letter-spacing:0px !important;
+}
+
+.header-minicart p.subtotal,
+.header-minicart p.paypal-logo{
+	margin-bottom:0 !important;
+}
+
+.header-minicart p.subtotal{
+	line-height:27px !important
+}
+
+.header-minicart .subtotal span.label{
+	padding:0px;
+	font-weight: 700;
+    font-size: 14px;
+    padding: 0px;
+    color: #333;
+	font-family:"Raleway", "Helvetica Neue", Verdana, Arial, sans-serif
+}
+
+.header-minicart .subtotal span.price{
+	font-size:14px;
+}
+
+.paypal-or{
+	font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif !important;
+	font-size:14px !important;
+	line-height: 10px !important;
+    margin: 0px 10px 5px !important;
+	letter-spacing:0 !important;
+}
+
+.paypal-button{
+	margin-bottom:7px !important
+}
